@@ -1,12 +1,12 @@
 {
   "app": "Baenke-Innichen",
-  "generated_at": "2026-10-05T02:00:11.482Z",
-  "reason": "scheduled:0 2 * * *",
+  "generated_at": "2026-10-05T09:16:54.091Z",
+  "reason": "trail-pole-created:12",
   "source": "cloudflare-d1:innichen-benches",
-  "count": 1,
-  "active_count": 1,
-  "signboard_count": 2,
-  "entry_count": 2,
+  "count": 2,
+  "active_count": 2,
+  "signboard_count": 4,
+  "entry_count": 4,
   "trail_poles": [
     {
       "id": 8,
@@ -47,6 +47,51 @@
               "signboard_id": 16,
               "label": "Sexten",
               "duration": "30",
+              "sort_order": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "site_number": "26-TB-6",
+      "lat": 46.736412,
+      "lng": 12.265987,
+      "active": true,
+      "notes": "Ober schlössl",
+      "image_url": "https://pub-483266975888471db0d51fff35148e9d.r2.dev/wanderbeschilderungen/a95b2879-d239-491f-ad5f-fdb99f972069.jpg",
+      "created_at": "2026-10-05 09:16:53",
+      "updated_at": "2026-10-05 09:16:53",
+      "signboards": [
+        {
+          "id": 17,
+          "pole_id": 12,
+          "direction": "rechts",
+          "trail_number": "26",
+          "sort_order": 0,
+          "entries": [
+            {
+              "id": 21,
+              "signboard_id": 17,
+              "label": "Vierschach",
+              "duration": null,
+              "sort_order": 0
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "pole_id": 12,
+          "direction": "links",
+          "trail_number": "26",
+          "sort_order": 1,
+          "entries": [
+            {
+              "id": 22,
+              "signboard_id": 18,
+              "label": "Innichen",
+              "duration": null,
               "sort_order": 0
             }
           ]
