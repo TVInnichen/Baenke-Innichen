@@ -1,10 +1,10 @@
 {
   "app": "Baenke-Innichen",
-  "generated_at": "2026-10-06T02:00:07.428Z",
-  "reason": "scheduled:0 2 * * *",
+  "generated_at": "2026-10-06T05:46:03.723Z",
+  "reason": "trail-pole-created:13",
   "source": "cloudflare-d1:innichen-benches",
-  "count": 2,
-  "active_count": 2,
+  "count": 3,
+  "active_count": 3,
   "signboard_count": 4,
   "entry_count": 4,
   "trail_poles": [
@@ -97,6 +97,18 @@
           ]
         }
       ]
+    },
+    {
+      "id": 13,
+      "site_number": "26-tb-10",
+      "lat": 46.743259,
+      "lng": 12.273675,
+      "active": true,
+      "notes": null,
+      "image_url": "https://pub-483266975888471db0d51fff35148e9d.r2.dev/wanderbeschilderungen/dbbe390f-581d-4d51-9f84-72c576724a9c.jpg",
+      "created_at": "2026-10-06 05:46:03",
+      "updated_at": "2026-10-06 05:46:03",
+      "signboards": []
     }
   ]
 }
